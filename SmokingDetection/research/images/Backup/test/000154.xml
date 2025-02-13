@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoking_my_annotation</folder>
+	<filename>000154.jpg</filename>
+	<path>C:\Users\nagas\Downloads\smoking_my_annotation\000154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>6</ymin>
+			<xmax>278</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>
